@@ -288,7 +288,6 @@ function updateGalleryImage() {
   modalImage.src = currentImages[currentImageIndex];
   modalImage.alt = `Imagem ${currentImageIndex + 1} do projeto`;
 
-  // Atualiza qual bolinha (dot) está destacada
   const dots = galleryDots.querySelectorAll(".gallery-dot");
   dots.forEach((dot, index) => {
     dot.classList.toggle("is-active", index === currentImageIndex);
