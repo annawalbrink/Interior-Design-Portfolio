@@ -134,7 +134,7 @@ h1, h2, h3 {
 .menu-toggle span {
   width: 22px;
   height: 2px;
-  background-color: var(--ink);
+  background-color: #B08D4C;
 }
 
 .hero {
