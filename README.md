@@ -14,10 +14,10 @@ Built With
 - Vanilla JavaScript (no libraries or frameworks)
 
 Project Structure
-- index.html # Page structure and content
-- style.css # Styling and layout
-- script.js # Interactivity (menu, modal, gallery)
-- Images/ # Project images
+- index.html - Page structure and content
+- style.css - Styling and layout
+- script.js - Interactivity (menu, modal, gallery)
+- Images - Project images
 
 About
 All projects featured were designed and visualized using Room Planner.
